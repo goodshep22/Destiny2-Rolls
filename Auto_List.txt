@@ -75,15 +75,6 @@ dimwishlist:item=414045521&perks=4071163871,3708227201
 // Insurmountable ()
 dimwishlist:item=414045521&perks=3523296417,3425386926
 
-
-// Controlling Vision ()
-dimwishlist:item=423343404&perks=1561002382,2451262963,2319119708
-
-
-// Controlling Vision ()
-dimwishlist:item=423343404&perks=1561002382,1195158366,3708227201
-
-
 // Truthteller ()
 dimwishlist:item=447296102&perks=3032599245,1631667848,3324494224
 
