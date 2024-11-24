@@ -14,6 +14,21 @@ dimwishlist:item=2273643087&perks=183430248,183430251
 dimwishlist:item=2273643087&perks=1476923953,183430247
 dimwishlist:item=2273643087&perks=1476923953,1476923956
 
+// Perk Combos
+dimwishlist:perks=2822142346,3523296417
+dimwishlist:perks=536173722,1161469972
+
+// The Mountaintop (Brave)
+dimwishlist:item=4043921923&perks=3809316345,3301904089
+
+
+// Midnight Coup (Brave)
+dimwishlist:item=2499720827&perks=4090651448,106909392,3700496672,3891536761
+
+// Hammerhead (Brave)
+dimwishlist:item=211732170&perks=3250034553,1968497646,1354429876,557221067
+dimwishlist:item=211732170&perks=3661387068,2420895100,3418782618,95528736
+
 // Trash List Entries Start Here
 
 // Adverse Possession IX
