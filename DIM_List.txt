@@ -15,8 +15,8 @@ dimwishlist:item=2273643087&perks=1476923953,183430247
 dimwishlist:item=2273643087&perks=1476923953,1476923956
 
 // Perk Combos
-dimwishlist:item=69420&perks=2822142346,3523296417
-dimwishlist:item=69420&perks=536173722,1161469972
+dimwishlist:item=-69420&perks=2420895100,3523296417
+dimwishlist:item=-69420&perks=536173722,1161469972
 
 // The Mountaintop (Brave)
 dimwishlist:item=4043921923&perks=3809316345,3301904089
