@@ -14,6 +14,17 @@ dimwishlist:item=2273643087&perks=183430248,183430251
 dimwishlist:item=2273643087&perks=1476923953,183430247
 dimwishlist:item=2273643087&perks=1476923953,1476923956
 
+// Trash List Entries Start Here
+
+// Adverse Possession IX
+dimwishlist:item=-1890332078
+
+// Controlling Vision
+dimwishlist:item=-423343404
+
+// Harsh Language
+dimwishlist:item=-1606497639
+
 
 // Wishlist Manager Start Here
 
