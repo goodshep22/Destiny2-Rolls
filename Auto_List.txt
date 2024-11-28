@@ -1,4 +1,4 @@
-// Wishlist Manager Start Here
+// Wishlist Starts Here
 
 // Senuna SI6 ()
 dimwishlist:item=5159537&perks=1392496348,1885400500,1631667848,691659142
@@ -75,6 +75,11 @@ dimwishlist:item=414045521&perks=4071163871,3708227201
 // Insurmountable ()
 dimwishlist:item=414045521&perks=3523296417,3425386926
 
+
+// Controlling Vision ()
+dimwishlist:item=423343404&perks=
+
+
 // Truthteller ()
 dimwishlist:item=447296102&perks=3032599245,1631667848,3324494224
 
@@ -88,6 +93,29 @@ dimwishlist:item=447296102&perks=3032599245,1631667848,3324494224
 
 // Truthteller ()
 dimwishlist:item=447296102&perks=3301904089,1631667848,1683379515
+
+
+// Tinasha's Mastery ()
+dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579
+dimwishlist:item=480368036&perks=106909392,1421772400,2978966579
+
+
+// Tinasha's Mastery ()
+dimwishlist:item=480368036&perks=1421772400,2978966579
+dimwishlist:item=480368036&perks=1421772400,2109543898
+dimwishlist:item=480368036&perks=1421772400,4104185692
+dimwishlist:item=480368036&perks=1421772400,4049631843
+dimwishlist:item=480368036&perks=1421772400,3708227201
+dimwishlist:item=480368036&perks=3993379141,2978966579
+dimwishlist:item=480368036&perks=3993379141,2109543898
+dimwishlist:item=480368036&perks=3993379141,4104185692
+dimwishlist:item=480368036&perks=3993379141,4049631843
+dimwishlist:item=480368036&perks=3993379141,3708227201
+dimwishlist:item=480368036&perks=1119449540,2978966579
+dimwishlist:item=480368036&perks=1119449540,2109543898
+dimwishlist:item=480368036&perks=1119449540,4104185692
+dimwishlist:item=480368036&perks=1119449540,4049631843
+dimwishlist:item=480368036&perks=1119449540,3708227201
 
 
 // Ded Gramarye IV ()
@@ -205,6 +233,19 @@ dimwishlist:item=839786290&perks=3796465595,968510818,3078487919
 // Marsilion-C ()
 dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,3751912585
 dimwishlist:item=867154247&perks=3525010810,3301904089,968510818,3751912585
+
+
+// Wild Style (Adept) ()
+dimwishlist:item=959037361&perks=1583705720,4049631843
+
+
+// Wild Style (Adept) ()
+dimwishlist:item=959037361&perks=968510818,4293542123
+dimwishlist:item=959037361&perks=968510818,3708227201
+
+
+// Wild Style (Adept) ()
+dimwishlist:item=959037361&perks=409831596,960810156,3708227201
 
 
 // Nameless Midnight ()
@@ -444,6 +485,19 @@ dimwishlist:item=1719687748&perks=3796465595,2284787283,1439600632
 // Crux Termination IV ()
 dimwishlist:item=1719687748&perks=3796465595,968510818,3523296417
 dimwishlist:item=1719687748&perks=3796465595,1523832109,3523296417
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=684456054,3523296417
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=3796465595,684456054,3523296417
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=3796465595,684456054,3194351027
+dimwishlist:item=1719687748&perks=3796465595,684456054,3708227201
 
 
 // VS Chill Inhibitor ()
@@ -1294,3 +1348,5 @@ dimwishlist:item=4233375372&perks=4071163871,3708227201
 
 // Marcato-45 ()
 dimwishlist:item=4233375372&perks=4090651448,106909392,4071163871,3708227201
+
+
