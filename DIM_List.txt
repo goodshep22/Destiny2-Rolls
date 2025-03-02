@@ -1092,13 +1092,8 @@ dimwishlist:item=2823644677&perks=3619207468,3038247973
 // Exuviae ()
 dimwishlist:item=2823644677&perks=3938834702,4104185692
 
-
 // Neoptolemus II ()
-dimwishlist:item=2848549302&perks=2801223209,3429800428,880644845,2579169598,1050127423
-
-
-// Neoptolemus II ()
-dimwishlist:item=2848549302&perks=880644845,2579169598
+dimwishlist:item=2848549302&perks=880644845,2579169598 #(Lone Wolf & Strategist)
 
 
 // Neoptolemus II ()
