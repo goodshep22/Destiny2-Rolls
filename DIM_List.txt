@@ -45,6 +45,9 @@ dimwishlist:item=959037361&perks=1583705720,4049631843
 // Adverse Possession IX
 dimwishlist:item=-1890332078
 
+// Neoptolemus II
+dimwishlist:item=-2848549302
+
 // Controlling Vision
 dimwishlist:item=-423343404
 
@@ -1450,7 +1453,4 @@ dimwishlist:item=4233375372&perks=4071163871,3708227201
 
 // Marcato-45 ()
 dimwishlist:item=4233375372&perks=4090651448,106909392,4071163871,3708227201
-
-// Neoptolemus II
-dimwishlist:item=-2848549302
 
