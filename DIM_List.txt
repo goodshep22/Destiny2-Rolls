@@ -5,14 +5,15 @@ description:Easily keep vault maintained
 // Manual Entries Start Here
 
 // Solipsism
-dimwishlist:item=2273643087&perks=183430250,1476923955
-dimwishlist:item=2273643087&perks=183430253,1476923957
-dimwishlist:item=2273643087&perks=183430252,1476923956
-dimwishlist:item=2273643087&perks=183430250,183430254
-dimwishlist:item=2273643087&perks=183430255,183430249
-dimwishlist:item=2273643087&perks=183430248,183430251
-dimwishlist:item=2273643087&perks=1476923953,183430247
-dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923955 #(Apotheosis & Stareater)
+dimwishlist:item=2273643087&perks=183430253,1476923957 #(Osmiomancy & Verity)
+dimwishlist:item=2273643087&perks=183430252,1476923956 #(Necrotic & Synthoceps)
+dimwishlist:item=2273643087&perks=183430250,183430254 #(Apotheosis & Harmony)
+dimwishlist:item=2273643087&perks=183430255,183430249 #(Filament & Starfire)
+dimwishlist:item=2273643087&perks=183430248,183430251 #(Stag & Vesper)
+dimwishlist:item=2273643087&perks=1476923953,183430247 #(Inmost Light & Claw)
+dimwishlist:item=2273643087&perks=1476923953,1476923956 #(Inmost Light & Synthoceps)
+dimwishlist:item=2273643087&perks=1476923952,1476923956 #(Assassin & Synthoceps)
 
 // Perk Combos
 dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline Junkie)
