@@ -118,6 +118,12 @@ dimwishlist:item=-250721843
 //Misral Lift
 dimwishlist:item=3483485727&perks=3987942396,3078487919 #(Envious Arsenal & Bait and Switch)
 dimwishlist:item=3483485727&perks=1134488199,555281244 #(Withering Gaze & Precision Instrument)
+dimwishlist:item=3483485727&perks=3987942396,2319119708 #(Envious Aresenal & High Ground)
+dimwishlist:item=3483485727&perks=3987942396,1771339417 #(Envious Aresenal & Firing Line)
+dimwishlist:item=3483485727&perks=3987942396,555281244 #(Envious Aresenal & Precision Instrument)
+
+
+
 
 // PaliThe Palindrome (Adept)
 dimwishlist:item=4077588826&perks=3038247973,3218042543 #(Explosive Payload & Rolling Storm)
