@@ -1097,7 +1097,7 @@ dimwishlist:item=2848549302&perks=880644845,2579169598 #(Lone Wolf & Strategist)
 
 
 // Neoptolemus II ()
-dimwishlist:item=2848549302&perks=691659142,3592538738
+dimwishlist:item=2848549302&perks=691659142,3592538738 #(Pugilist & Wellspring)
 
 
 // Hung Jury SR4 (Adept) ()
