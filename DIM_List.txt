@@ -22,6 +22,7 @@ dimwishlist:item=2273643087&perks=183430255,183430254 #(Filaments & Harmony)
 dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline Junkie)
 dimwishlist:item=-69420&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
 dimwishlist:item=-69420&perks=3017780555,1015611457 #(Heal Clip & Kill Clip)
+dimwishlist:item=-69420&perks=3987942396,3078487919 #(Envious Arsenal & Bait and Switch)
 
 // The Mountaintop (Brave)
 dimwishlist:item=4043921923&perks=3809316345,3301904089
