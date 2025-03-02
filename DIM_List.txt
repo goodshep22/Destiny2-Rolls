@@ -86,9 +86,6 @@ dimwishlist:item=-737409399
 dimwishlist:item=-547165496
 dimwishlist:item=-2712683313
 
-// Neoptolemus II
-dimwishlist:item=-2848549302
-
 // Live Fire
 dimwishlist:item=-3612142623
 
@@ -1453,4 +1450,7 @@ dimwishlist:item=4233375372&perks=4071163871,3708227201
 
 // Marcato-45 ()
 dimwishlist:item=4233375372&perks=4090651448,106909392,4071163871,3708227201
+
+// Neoptolemus II
+dimwishlist:item=-2848549302
 
