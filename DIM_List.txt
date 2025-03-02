@@ -17,7 +17,6 @@ dimwishlist:item=2273643087&perks=1476923952,1476923956 #(Assassin & Synthoceps)
 dimwishlist:item=2273643087&perks=183430255,183430251 #(Filaments & Vesper)
 dimwishlist:item=2273643087&perks=183430255,183430254 #(Filaments & Harmony)
 
-
 // Perk Combos
 dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline Junkie)
 dimwishlist:item=-69420&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
@@ -26,7 +25,6 @@ dimwishlist:item=-69420&perks=3987942396,3078487919 #(Envious Arsenal & Bait and
 
 // The Mountaintop (Brave)
 dimwishlist:item=4043921923&perks=3809316345,3301904089
-
 
 // Midnight Coup (Brave)
 dimwishlist:item=2499720827&perks=4090651448,106909392,3700496672,3891536761
