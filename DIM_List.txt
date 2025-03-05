@@ -2,7 +2,7 @@ title:Vault Maintenance
 description:Easily keep vault maintained
 
 
-// Manual Entries Start Here
+///////////////////////////// Manual Entries Start Here //////////////////////////////////
 
 // Solipsism
 dimwishlist:item=2273643087&perks=183430250,1476923955 #(Apotheosis & Stareater)
@@ -35,7 +35,7 @@ dimwishlist:item=211732170&perks=3661387068,2420895100,3418782618,95528736
 
 
 
-// Trash List Entries Start Here
+//////////////////////////// Trash List Entries Start Here /////////////////////////////////////////////
 
 //  Qua Furor V
 dimwishlist:item=-751880654
@@ -106,7 +106,7 @@ dimwishlist:item=-664109750
 dimwishlist:item=-250721843
 
 
-// Wishlist Starts Here
+///////////////////////////////////////////////// Wishlist Starts Here /////////////////////////////////////////////////////
 
 // Unsworn
 dimwishlist:item=1303313141&perks=3700496672,4198902903 #(Shoot to Loot & Detonator Beam)
