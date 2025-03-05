@@ -45,6 +45,9 @@ dimwishlist:item=959037361&perks=1583705720,4049631843
 
 // Trash List Entries Start Here
 
+//  Qua Furor V
+dimwishlist:item=-751880654
+
 // Adverse Possession IX
 dimwishlist:item=-1890332078
 
