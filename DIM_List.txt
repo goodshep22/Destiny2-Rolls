@@ -582,73 +582,31 @@ dimwishlist:item=2599338625&perks=3301904089,243981275,3966416502
 
 // Ignition Code ()
 dimwishlist:item=2761869150&perks=1556840489,438098033
-
-
-// Ignition Code ()
 dimwishlist:item=2761869150&perks=3032599245,1556840489,438098033
-
-
-// Ignition Code ()
 dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692
-
-
-// Ignition Code ()
 dimwishlist:item=2761869150&perks=3301904089,3161816588,563069569
-
-
-// Ignition Code ()
 dimwishlist:item=2761869150&perks=409831596,3161816588,563069569
-
-
-// Ignition Code ()
 dimwishlist:item=2761869150&perks=3161816588,563069569
 
 
 // Midnight Coup ()
 dimwishlist:item=2763843898&perks=4090651448,3142289711,3700496672,3891536761
-
-
-// Midnight Coup ()
 dimwishlist:item=2763843898&perks=4090651448,3142289711,3038247973,2387244414
-
-
-// Midnight Coup ()
 dimwishlist:item=2763843898&perks=3038247973,2387244414
-
-
-// Midnight Coup ()
 dimwishlist:item=2763843898&perks=4090651448,3142289711,588594999,47981717
-
-
-// Midnight Coup ()
 dimwishlist:item=2763843898&perks=3700496672,3891536761
 
 
 // Luna's Howl ()
 dimwishlist:item=2763843899&perks=4090651448,1561002382,3017780555,4293542123
-
-
-// Luna's Howl ()
 dimwishlist:item=2763843899&perks=1561002382,3017780555,4293542123
-
-
-// Luna's Howl ()
 dimwishlist:item=2763843899&perks=3017780555,4293542123
 
 
 // Nox Perennial V ()
 dimwishlist:item=2767393525&perks=4090651448,1687452232,968510818,831391274
-
-
-// Nox Perennial V ()
 dimwishlist:item=2767393525&perks=968510818,831391274
-
-
-// Nox Perennial V ()
 dimwishlist:item=2767393525&perks=968510818,2594592626
-
-
-// Nox Perennial V ()
 dimwishlist:item=2767393525&perks=4090651448,1687452232,968510818,2594592626
 
 
@@ -660,29 +618,14 @@ dimwishlist:item=2800870005&perks=3643424744,4293542123
 
 // Naeem's Lance ()
 dimwishlist:item=2806569825&perks=4090651448,106909392,1523832109,3993379141
-
-
-// Naeem's Lance ()
 dimwishlist:item=2806569825&perks=1523832109,3993379141
-
-
-// Naeem's Lance ()
 dimwishlist:item=2806569825&perks=831391274,923806249
-
-
-// Naeem's Lance ()
 dimwishlist:item=2806569825&perks=4090651448,106909392,831391274,923806249
 
 
 // Fortissimo-11 ()
 dimwishlist:item=2821430069&perks=3523296417,11612903
-
-
-// Fortissimo-11 ()
 dimwishlist:item=2821430069&perks=1428297954,47981717
-
-
-// Fortissimo-11 ()
 dimwishlist:item=2821430069&perks=972757866,3673922083
 dimwishlist:item=2821430069&perks=1820235745,3673922083
 dimwishlist:item=2821430069&perks=1428297954,3673922083
@@ -690,128 +633,50 @@ dimwishlist:item=2821430069&perks=1428297954,3673922083
 
 // Exuviae ()
 dimwishlist:item=2823644677&perks=4090651448,3142289711,1955165503,124408337
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=4090651448,3142289711,3400784728,555281244
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=4090651448,3142289711,3938834702,3038247973
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=4090651448,3142289711,1583705720,4049631843
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=1955165503,124408337
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=3400784728,555281244
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=1955165503,124408337
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=1583705720,4049631843
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=3619207468,3038247973
-
-
-// Exuviae ()
 dimwishlist:item=2823644677&perks=3938834702,4104185692
 
 // Neoptolemus II ()
 dimwishlist:item=2848549302&perks=880644845,2579169598 #(Lone Wolf & Strategist)
-
-
-// Neoptolemus II ()
 dimwishlist:item=2848549302&perks=691659142,3592538738 #(Pugilist & Wellspring)
 
 
 // Hung Jury SR4 (Adept) ()
 dimwishlist:item=2883684343&perks=3700496672,3891536761
-
-
-// Hung Jury SR4 (Adept) ()
 dimwishlist:item=2883684343&perks=247725512,2551157718
 
 
 // Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=3643424744,2594592626
-
-
-// Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=3643424744,1427256713
-
-
-// Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=968510818,2594592626
-
-
-// Loaded Question (Adept) ()
 dimwishlist:item=2914913838&perks=968510818,1427256713
-
-
-// Loaded Question (Adept) ()
-dimwishlist:item=2914913838&perks=
-
-
-// Loaded Question (Adept) ()
-dimwishlist:item=2914913838&perks=
-
-
-// Loaded Question (Adept) ()
-dimwishlist:item=2914913838&perks=
 
 
 // No Survivors ()
 dimwishlist:item=3262192268&perks=1561002382,3523296417,4293542123
-
-
-// No Survivors ()
 dimwishlist:item=3262192268&perks=1561002382,3523296417,11612903
-
-
-// No Survivors ()
 dimwishlist:item=3262192268&perks=1561002382,2846385770,365154968
-
-
-// No Survivors ()
 dimwishlist:item=3262192268&perks=1561002382,3523296417,3324494224
-
-
-// No Survivors ()
 dimwishlist:item=3262192268&perks=1561002382,3523296417,691659142
 
 
 // Randy's Throwing Knife ()
 dimwishlist:item=3292795429&perks=1365187766,3891536761
-
-
-// Randy's Throwing Knife ()
 dimwishlist:item=3292795429&perks=1561002382,1365187766,3891536761
 
 
 // Red Tape ()
 dimwishlist:item=3423493037&perks=3250034553,3177308360,1955165503,124408337
-
-
-// Red Tape ()
 dimwishlist:item=3423493037&perks=3523296417,11612903
-
-
-// Red Tape ()
 dimwishlist:item=3423493037&perks=1194056669,2213355989
-
-
-// Red Tape ()
 dimwishlist:item=3423493037&perks=1354429876,2896038713
 
 
@@ -827,53 +692,23 @@ dimwishlist:item=3612142623&perks=1561002382,1955165503,124408337
 
 // Succession ()
 dimwishlist:item=3612338554&perks=1392496348,3177308360,1523832109,1771339417
-
-
-// Succession ()
 dimwishlist:item=3612338554&perks=1523832109,1771339417
 
 
 // Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=4090651448,1687452232,3828510309,1771339417
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=4090651448,1687452232,124408337,2978966579
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=124408337,2978966579
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=2621346526,1771339417
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=3828510309,1771339417
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=4090651448,1687452232,968510818,1771339417
-
-
-// Suspectum-4fr ()
 dimwishlist:item=3615421669&perks=968510818,1354429876
 
 
 // Arcane Embrace ()
 dimwishlist:item=3649985571&perks=1354429876,555281244
-
-
-// Arcane Embrace ()
 dimwishlist:item=3649985571&perks=4071163871,3708227201
-
-
-// Arcane Embrace ()
 dimwishlist:item=3649985571&perks=4071163871,2173046394
-
-
-// Arcane Embrace ()
 dimwishlist:item=3649985571&perks=1631667848,4082225868
 
 
@@ -883,190 +718,85 @@ dimwishlist:item=3678653083&perks=3978468247,438098033
 
 // Undercurrent ()
 dimwishlist:item=3686538757&perks=2822142346,684456054,2173046394
-
-
-// Undercurrent ()
 dimwishlist:item=3686538757&perks=2822142346,3523296417,11612903
 
 
 // Legato-11 ()
 dimwishlist:item=3753063346&perks=3017780555,4293542123
-
-
-// Legato-11 ()
 dimwishlist:item=3753063346&perks=3300816228,4293542123
-
-
-// Legato-11 ()
 dimwishlist:item=3753063346&perks=3300816228,3751912585
-
-
-// Legato-11 ()
 dimwishlist:item=3753063346&perks=3400784728,2896038713
-
-
-// Legato-11 ()
 dimwishlist:item=3753063346&perks=3300816228,4104185692
 
 
 // Sovereignty ()
 dimwishlist:item=3818198556&perks=1392496348,3230963543,2866798147,1134488199
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=1392496348,3230963543,3523296417,11612903
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=1392496348,3230963543,2866798147,2551157718
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=3523296417,11612903
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=2866798147,1134488199
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=2866798147,2551157718
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=3828510309,1771339417
-
-
-// Sovereignty ()
 dimwishlist:item=3818198556&perks=1392496348,3230963543,3828510309,1771339417
 
 
 // Vantage Point ()
 dimwishlist:item=3830941962&perks=1840239774,3142289711,684456054,3966416502
-
-
-// Vantage Point ()
 dimwishlist:item=3830941962&perks=684456054,3966416502
-
-
-// Vantage Point ()
 dimwishlist:item=3830941962&perks=3619207468,460017080
-
-
-// Vantage Point ()
 dimwishlist:item=3830941962&perks=1840239774,3142289711,3619207468,460017080
 
 
 // Parabellum ()
 dimwishlist:item=3926811686&perks=3418782618,4104185692
-
-
-// Parabellum ()
 dimwishlist:item=3926811686&perks=3828510309,243981275
 dimwishlist:item=3926811686&perks=3828510309,4104185692
-
-
-// Parabellum ()
 dimwishlist:item=3926811686&perks=3828510309,1359896290
 
 
 // Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1561002382,3418782618,3993379141
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1561002382,1359896290,124408337
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1482024992,1561002382,1359896290,2387244414
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=3418782618,3993379141
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1359896290,124408337
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1359896290,2387244414
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=3418782618,3324494224
-
-
-// Yarovit MG4 ()
 dimwishlist:item=3959549446&perks=1561002382,3418782618,3324494224
 
 
 // Staccato-46 ()
 dimwishlist:item=4019668921&perks=3400784728,2896038713
-
-
-// Staccato-46 ()
 dimwishlist:item=4019668921&perks=3700496672,4293542123
-
-
-// Staccato-46 ()
 dimwishlist:item=4019668921&perks=1645158859,3038247973
 
 
 // The Immortal ()
 dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
-
-
-// The Immortal ()
 dimwishlist:item=4039572196&perks=1482024992,1885400500,1359896290,365154968
 dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,365154968
 dimwishlist:item=4039572196&perks=1482024992,1561002382,1359896290,365154968
 dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,365154968
-
-
-// The Immortal ()
 dimwishlist:item=4039572196&perks=2846385770,365154968
 dimwishlist:item=4039572196&perks=1359896290,365154968
 dimwishlist:item=4039572196&perks=1428297954,365154968
-
-
-// The Immortal ()
 dimwishlist:item=4039572196&perks=1561002382,1428297954,3523296417
 dimwishlist:item=4039572196&perks=1561002382,1428297954,831391274
 dimwishlist:item=4039572196&perks=1561002382,1359896290,3523296417
 dimwishlist:item=4039572196&perks=1561002382,1359896290,831391274
-
-
-// The Immortal ()
 dimwishlist:item=4039572196&perks=1561002382,1359896290,1890422124
-
-
-// The Immortal ()
 dimwishlist:item=4039572196&perks=1561002382,1428297954,831391274
 
 
 // Heretic's Fervor ()
 dimwishlist:item=4224667951&perks=981914802,3796465595,1955165503,2978966579
-
-
-// Heretic's Fervor ()
 dimwishlist:item=4224667951&perks=981914802,3796465595,3300816228,2978966579
-
-
-// Heretic's Fervor ()
 dimwishlist:item=4224667951&perks=1955165503,2978966579
-
-
-// Heretic's Fervor ()
 dimwishlist:item=4224667951&perks=3300816228,2978966579
 
 
 // VS Pyroelectric Propellant ()
 dimwishlist:item=4232480042&perks=1561002382,243981275,3966416502
-
-
-// VS Pyroelectric Propellant ()
 dimwishlist:item=4232480042&perks=243981275,3966416502
 
 
