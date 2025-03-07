@@ -52,41 +52,6 @@ dimwishlist:item=-423343404
 // Harsh Language
 dimwishlist:item=-1606497639
 
-// Adamantite Base and Adept
-dimwishlist:item=-3229982889
-dimwishlist:item=-3485029080
-
-//Refusal Of The Call Adept Base
-dimwishlist:item=-25228802
-
-//Mirror Imago Adept Base
-dimwishlist:item=-302039451
-
-//Anamnesis Adept Base
-dimwishlist:item=-1536325168
-
-//Afterlight Adept Base
-dimwishlist:item=-3953163559
-
-//Pyschopomp Base and Adept
-dimwishlist:item=-4028298892
-dimwishlist:item=-2553380021
-
-//Division Adept Base
-dimwishlist:item=-3734001727
-
-// Eyes Unveiled Base and Adept
-dimwishlist:item=-727781522
-dimwishlist:item=-282549639
-
-// Watchful Eye Base and Adept
-dimwishlist:item=-1757177186
-dimwishlist:item=-737409399
-
-// Abyssal Edge Base and Adept
-dimwishlist:item=-547165496
-dimwishlist:item=-2712683313
-
 // Live Fire
 dimwishlist:item=-3612142623
 
