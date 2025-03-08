@@ -785,4 +785,11 @@ dimwishlist:item=4028298892&perks=691659142,3523296417 #(Pugilist & Demolitionis
 dimwishlist:item=4028298892&perks=2010801679,3108830275 #(Ambitious Assassin & Unrelenting)
 
 
+// Eyes Unveiled (Base)
+dimwishlist:item=727781522&perks=3643424744,1427256713 #(Overflow & Reservoir Burst)
+dimwishlist:item=727781522&perks=1820235745,2396489472 #(Subsistence & Chain Reaction)
+dimwishlist:item=727781522&perks=2010801679,2396489472 #(Ambitious Assassin & Chain Reaction)
+dimwishlist:item=727781522&perks=2010801679,1427256713 #(Ambitious Assassin & Reservoir Burst)
+
+
 
