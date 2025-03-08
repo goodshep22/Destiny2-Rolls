@@ -792,4 +792,11 @@ dimwishlist:item=727781522&perks=2010801679,2396489472 #(Ambitious Assassin & Ch
 dimwishlist:item=727781522&perks=2010801679,1427256713 #(Ambitious Assassin & Reservoir Burst)
 
 
+// Cruoris FR4
+dimwishlist:item=891996636&perks=2284787283,3218042543 #(Clown Cartridge & Rolling Storm)
+dimwishlist:item=891996636&perks=684456054,1754714824 #(Eddy Current & Kickstart)
+dimwishlist:item=891996636&perks=1583705720,4049631843 #(Stats For All & One For All)
+
+
+
 
