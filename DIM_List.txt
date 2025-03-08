@@ -661,10 +661,12 @@ dimwishlist:item=3612338554&perks=1523832109,1771339417
 
 
 // Suspectum-4fr ()
-dimwishlist:item=3615421669&perks=124408337,2978966579
-dimwishlist:item=3615421669&perks=2621346526,1771339417
-dimwishlist:item=3615421669&perks=3828510309,1771339417
-dimwishlist:item=3615421669&perks=968510818,1354429876
+dimwishlist:item=3615421669&perks=124408337,2978966579 #(Headstone & Chill Clip)
+dimwishlist:item=3615421669&perks=2621346526,1771339417 #(Ensemble & Firing Line)
+dimwishlist:item=3615421669&perks=3828510309,1771339417 #(Elightened Action & Firing Line)
+dimwishlist:item=3615421669&perks=3828510309,555281244 #(Enlightened Action & Precision Instrument)
+dimwishlist:item=3615421669&perks=1600092898,2319119708 #(Back Up Plan & High Ground)
+dimwishlist:item=3615421669&perks=2866798147,2551157718 #(No Distractions & Box Breathing)
 
 
 // Arcane Embrace ()
