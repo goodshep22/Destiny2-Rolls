@@ -747,8 +747,13 @@ dimwishlist:item=4233375372&perks=4090651448,106909392,4071163871,3708227201
 
 
 // Scavenger's Fate
-dimwishlist:item=2913577176&perks=776531651,2048641572
-dimwishlist:item=2913577176&perks=3161816588,3708227201
+dimwishlist:item=2913577176&perks=776531651,2048641572 #(Repulsor Brace & Destablizing Rounds)
+dimwishlist:item=2913577176&perks=3978468247,438098033 #(Discord & Harmony)
+dimwishlist:item=2913577176&perks=3161816588,2048641572 #(Slidshot & Destablizing Rounds)
+dimwishlist:item=2913577176&perks=3978468247,2048641572 #(Discord & Destablizing Rounds)
+
+
+
 
 
 // Adamantite (Base)
