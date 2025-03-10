@@ -783,6 +783,13 @@ dimwishlist:item=3997086838&perks=1955165503,2978966579 #(Replenishing Aegis & C
 dimwishlist:item=3997086838&perks=1966281507,2224838837 #(Replishing Aegis & Unstoppable Force)
 
 
+// Sojourner's Tale
+dimwishlist:item=2130875369&perks=3978468247,438098033 #(Discord & Harmony)
+dimwishlist:item=2130875369&perks=3017780555,4293542123 #(Heal Clip & Incandescent)
+dimwishlist:item=2130875369&perks=3978468247,4293542123 #(Discord & Incandescent)
+
+
+
 
 
 
