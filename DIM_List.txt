@@ -791,5 +791,13 @@ dimwishlist:item=891996636&perks=684456054,1754714824 #(Eddy Current & Kickstart
 dimwishlist:item=891996636&perks=1583705720,4049631843 #(Stats For All & One For All)
 
 
+// Rake Angle (Adept)
+dimwishlist:item=3997086838&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
+dimwishlist:item=3997086838&perks=1955165503,2978966579 #(Rimestealer & Chill Clip)
+dimwishlist:item=3997086838&perks=1955165503,2978966579 #(Replenishing Aegis & Close to Melee)
+dimwishlist:item=3997086838&perks=1966281507,2224838837 #(Replishing Aegis & Unstoppable Force)
+
+
+
 
 
