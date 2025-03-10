@@ -789,6 +789,14 @@ dimwishlist:item=2130875369&perks=3017780555,4293542123 #(Heal Clip & Incandesce
 dimwishlist:item=2130875369&perks=3978468247,4293542123 #(Discord & Incandescent)
 
 
+// Gridskipper
+dimwishlist:item=3433930495&perks=776531651,2048641572 #(Repulsor Brace & Destablizing Rounds)
+dimwishlist:item=3433930495&perks=3523296417,2109543898 #(Demolitionist & Desperate Measures)
+dimwishlist:item=3433930495&perks=1428297954,460017080 #(Perpetual Motion & Headseeker)
+dimwishlist:item=3433930495&perks=2579169598,460017080 #(Lone Wolf & Headseeker)
+
+
+
 
 
 
