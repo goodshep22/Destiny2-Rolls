@@ -796,6 +796,14 @@ dimwishlist:item=3433930495&perks=1428297954,460017080 #(Perpetual Motion & Head
 dimwishlist:item=3433930495&perks=2579169598,460017080 #(Lone Wolf & Headseeker)
 
 
+// Boondoggle Mk. 55
+dimwishlist:item=32287609&perks=1866048759,2416023159 #(Hip Fire Grip & Offhand Strike
+dimwishlist:item=32287609&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
+dimwishlist:item=32287609&perks=3938834702,1890422124 #(To The Pain & Tap The Trigger)
+
+
+
+
 
 
 
