@@ -17,6 +17,25 @@ dimwishlist:item=2273643087&perks=1476923952,1476923956 #(Assassin & Synthoceps)
 dimwishlist:item=2273643087&perks=183430255,183430251 #(Filaments & Vesper)
 dimwishlist:item=2273643087&perks=183430255,183430254 #(Filaments & Harmony)
 
+// Stoicism
+dimwishlist:item=266021826&perks=3573490511,1476923957 #(Eternal Warrior & Verity)
+dimwishlist:item=266021826&perks=3573490508,3573490506 #(Hoarfrost & Horn)
+dimwishlist:item=266021826&perks=3573490505,3573490500 #(Bear & Armamentarium)
+dimwishlist:item=266021826&perks=3573490509,3573490504 #(Severance & Contact)
+dimwishlist:item=266021826&perks=3573490510,3573490506 #(Abeyant & Horn)
+dimwishlist:item=266021826&perks=1476923953,1476923957 #(Inmost Light & Verity)
+dimwishlist:item=266021826&perks=3573490510,3573490501 #(Abeyant & Alpha Lupi)
+dimwishlist:item=266021826&perks=3573490508,3573490501 #(Hoarfrost & Alpha Lupi)
+dimwishlist:item=266021826&perks=1476923953,3573490500 #(Inmost Light & Armamentarium)
+dimwishlist:item=266021826&perks=3573490509,1476923956 #(Severance & Synthoceps)
+
+
+
+
+
+
+
+
 // Perk Combos
 dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline Junkie)
 dimwishlist:item=-69420&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
