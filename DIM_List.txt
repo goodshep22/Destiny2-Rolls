@@ -694,14 +694,17 @@ dimwishlist:item=3926811686&perks=3828510309,1359896290
 
 
 // Yarovit MG4 ()
-dimwishlist:item=3959549446&perks=1561002382,3418782618,3993379141
-dimwishlist:item=3959549446&perks=1561002382,1359896290,124408337
-dimwishlist:item=3959549446&perks=1482024992,1561002382,1359896290,2387244414
-dimwishlist:item=3959549446&perks=3418782618,3993379141
-dimwishlist:item=3959549446&perks=1359896290,124408337
-dimwishlist:item=3959549446&perks=1359896290,2387244414
-dimwishlist:item=3959549446&perks=3418782618,3324494224
-dimwishlist:item=3959549446&perks=1561002382,3418782618,3324494224
+dimwishlist:item=3959549446&perks=1561002382,1359896290,2387244414 #(Dynamic Sway Reduction & Zen Moment)
+dimwishlist:item=3959549446&perks=1561002382,3418782618,3993379141 #(Rewind Rounds & Deconstruct)
+dimwishlist:item=3959549446&perks=1561002382,1359896290,124408337 #(Dynamic Sway Reduction & Headstone)
+dimwishlist:item=3959549446&perks=1561002382,3418782618,3324494224 #(Rewind Rounds & Collective Action)
+dimwishlist:item=3959549446&perks=1561002382,3418782618,124408337 #(Rewind Rounds & Headstone)
+dimwishlist:item=3959549446&perks=3418782618,3993379141 #(Rewind Rounds & Deconstruct)
+dimwishlist:item=3959549446&perks=1359896290,124408337 #(Dynamic Sway Reduction & Headstone)
+dimwishlist:item=3959549446&perks=1359896290,2387244414 #(Dynamic Sway Reduction & Zen Moment)
+dimwishlist:item=3959549446&perks=3418782618,3324494224 #(Rewind Rounds & Collective Action)
+dimwishlist:item=3959549446&perks=3418782618,124408337 #(Rewind Rounds & Headstone)
+
 
 
 // Staccato-46 ()
