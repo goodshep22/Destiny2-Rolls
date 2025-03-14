@@ -831,6 +831,10 @@ dimwishlist:item=32287609&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
 dimwishlist:item=32287609&perks=3938834702,1890422124 #(To The Pain & Tap The Trigger)
 
 
+// Lotus-Eater (Adept)
+dimwishlist:item=2697143634&perks=776531651,2048641572 #(Repulsor Brace & Destabilizing Rounds)
+dimwishlist:item=2697143634&perks=1523832109,2048641572 #(Reconstruction & Destabilizing Rounds)
+
 
 
 
