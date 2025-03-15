@@ -821,6 +821,32 @@ dimwishlist:item=32287609&perks=3938834702,1890422124 #(To The Pain & Tap The Tr
 dimwishlist:item=2697143634&perks=776531651,2048641572 #(Repulsor Brace & Destabilizing Rounds)
 dimwishlist:item=2697143634&perks=1523832109,2048641572 #(Reconstruction & Destabilizing Rounds)
 
+// Mirror Imago (Base)
+dimwishlist:item=3234363830&perks=1631667848,4082225868 #(Grave Robber & Swashbuckler)
+dimwishlist:item=3234363830&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
+dimwishlist:item=3234363830&perks=3643424744,365154968 #(Overflow & Target Lock)
+dimwishlist:item=3234363830&perks=3713215006,831391274 #(Recycled Energy & Hatchling)
+dimwishlist:item=3234363830&perks=3938834702,31345821 #(To The Pain & Sword Logic)
+
+
+// Afterlight (Base)
+dimwishlist:item=3228630258&perks=1631667848,1427256713 #(Grave Robber & Reservoir Burst)
+dimwishlist:item=3228630258&perks=1556840489,2048641572 #(Lead from Gold & Destabilizing Rounds)
+dimwishlist:item=3228630258&perks=691659142,2048641572 #(Pugilist & Destabilizing Rounds)
+
+
+// Keraunios
+dimwishlist:item=2029899814&perks=3400784728,3966416502 #(Triple Tap & Jolting Feedback)
+dimwishlist:item=2029899814&perks=3400784728,4198902903 #(Triple Tap & Detonator Beam)
+dimwishlist:item=2029899814&perks=3643424744,557221067 #(OverFlow & Killing Tally)
+dimwishlist:item=2029899814&perks=3643424744,3218042543 #(Overflow & Rolling Storm)
+
+
+
+
+
+
+
 
 
 
