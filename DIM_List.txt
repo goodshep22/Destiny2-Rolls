@@ -331,16 +331,18 @@ dimwishlist:item=1298672084&perks=1047830412,3142289711,691659142,2360754333
 
 
 // Taraxippos ()
-dimwishlist:item=1389546626&perks=1365187766,3038247973
-dimwishlist:item=1389546626&perks=1354429876,3751912585
 dimwishlist:item=1389546626&perks=2387244414,3038247973
-dimwishlist:item=1389546626&perks=2387244414,831391274
-dimwishlist:item=1389546626&perks=1354429876,2896038713
-dimwishlist:item=1389546626&perks=2387244414,3619207468
+
 
 
 // Hung Jury SR4 ()
-dimwishlist:item=1453235079&perks=3891536761,4049631843
+dimwishlist:item=1453235079&perks=3891536761,4049631843 #(Zen Moment & Explosive Payload)
+dimwishlist:item=2595813005&perks=3828510309,1015611457 #(Enlightened Action & Kill Clip)
+dimwishlist:item=2595813005&perks=3828510309,555281244 #(Enlightened Action & Precision Instrument)
+dimwishlist:item=2595813005&perks=2387244414,831391274 #(Zen Moment & Hatchling)
+dimwishlist:item=2595813005&perks=1354429876,960997401 #(Fourth Times the Charm & Tear)
+
+
 
 
 // Scintillation (Adept) ()
