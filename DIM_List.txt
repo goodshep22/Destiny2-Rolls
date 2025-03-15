@@ -30,12 +30,6 @@ dimwishlist:item=266021826&perks=1476923953,3573490500 #(Inmost Light & Armament
 dimwishlist:item=266021826&perks=3573490509,1476923956 #(Severance & Synthoceps)
 
 
-
-
-
-
-
-
 // Perk Combos
 dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline Junkie)
 dimwishlist:item=-69420&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
@@ -343,8 +337,6 @@ dimwishlist:item=2595813005&perks=2387244414,831391274 #(Zen Moment & Hatchling)
 dimwishlist:item=2595813005&perks=1354429876,960997401 #(Fourth Times the Charm & Tear)
 
 
-
-
 // Scintillation (Adept) ()
 dimwishlist:item=1492522228&perks=4090651448,3868766766,3300816228,3078487919
 dimwishlist:item=1492522228&perks=4090651448,3868766766,3300816228,1771339417
@@ -391,8 +383,6 @@ dimwishlist:item=1896309757&perks=2048641572,557221067 #(Destablizing Rounds & K
 dimwishlist:item=1896309757&perks=3418782618,95528736 #(Rewind Rounds & Onslaught)
 dimwishlist:item=1896309757&perks=3418782618,365154968 #(Rewind Rounds & Target Lock)
 dimwishlist:item=1896309757&perks=3425386926,557221067 #(Rampage & Killing Tally)
-
-
 
 
 // Hammerhead (Brave)
@@ -706,8 +696,6 @@ dimwishlist:item=3830941962&perks=1194056669,2213355989 #(Closing Time & High Im
 dimwishlist:item=3830941962&perks=1583705720,4049631843 #(Stats For All & One For All)
 
 
-
-
 // Parabellum ()
 dimwishlist:item=3926811686&perks=3418782618,4104185692
 dimwishlist:item=3926811686&perks=3828510309,243981275
@@ -726,7 +714,6 @@ dimwishlist:item=3959549446&perks=1359896290,124408337 #(Dynamic Sway Reduction 
 dimwishlist:item=3959549446&perks=1359896290,2387244414 #(Dynamic Sway Reduction & Zen Moment)
 dimwishlist:item=3959549446&perks=3418782618,3324494224 #(Rewind Rounds & Collective Action)
 dimwishlist:item=3959549446&perks=3418782618,124408337 #(Rewind Rounds & Headstone)
-
 
 
 // Staccato-46 ()
@@ -777,9 +764,6 @@ dimwishlist:item=2913577176&perks=776531651,2048641572 #(Repulsor Brace & Destab
 dimwishlist:item=2913577176&perks=3978468247,438098033 #(Discord & Harmony)
 dimwishlist:item=2913577176&perks=3161816588,2048641572 #(Slidshot & Destablizing Rounds)
 dimwishlist:item=2913577176&perks=3978468247,2048641572 #(Discord & Destablizing Rounds)
-
-
-
 
 
 // Adamantite (Base)
