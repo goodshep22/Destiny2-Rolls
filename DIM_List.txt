@@ -90,7 +90,8 @@ dimwishlist:item=1303313141&perks=960997401,831391274 #(Tear & Hatchling)
 // Unloved
 dimwishlist:item=2485881870&perks=831391274,960997401 #(Tear & Hatchling)
 dimwishlist:item=2485881870&perks=2848615171,3215448563 #(Dragonfly & Paracausal Affinity)
-dimwishlist:item=2485881870&perks=831391274,3215448563 #(Hatchling & Paracausal Affinity
+dimwishlist:item=2485881870&perks=831391274,3215448563 #(Hatchling & Paracausal Affinity)
+dimwishlist:item=2485881870&perks=2848615171,960997401 #(Dragonfly & Tear)
 
 
 //Unvoiced
