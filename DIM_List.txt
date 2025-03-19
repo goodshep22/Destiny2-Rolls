@@ -836,7 +836,6 @@ dimwishlist:item=3228630258&perks=2010801679,2048641572 #(Ambitious Assassin & D
 dimwishlist:item=3228630258&perks=1631667848,2048641572 #((Grave Robber & Destabilizing Rounds)
 
 
-
 // Keraunios
 dimwishlist:item=2029899814&perks=3400784728,3966416502 #(Triple Tap & Jolting Feedback)
 dimwishlist:item=2029899814&perks=3400784728,4198902903 #(Triple Tap & Detonator Beam)
