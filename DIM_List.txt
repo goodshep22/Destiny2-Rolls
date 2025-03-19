@@ -818,6 +818,12 @@ dimwishlist:item=32287609&perks=3938834702,1890422124 #(To The Pain & Tap The Tr
 // Lotus-Eater (Adept)
 dimwishlist:item=2697143634&perks=776531651,2048641572 #(Repulsor Brace & Destabilizing Rounds)
 dimwishlist:item=2697143634&perks=1523832109,2048641572 #(Reconstruction & Destabilizing Rounds)
+dimwishlist:item=2697143634&perks=880644845,2048641572 #(Strategist & Destabilizing Rounds)
+dimwishlist:item=2697143634&perks=776531651,1134488199 #(Repulsor Brace & Withering Gaze)
+dimwishlist:item=2697143634&perks=1523832109,1134488199 #(Reconstruction & Withering Gaze)
+dimwishlist:item=2697143634&perks=1523832109,2319119708 #(Reconstruction & High Ground)
+dimwishlist:item=2697143634&perks=880644845,2319119708 #(Strategist & High Ground)
+
 
 // Mirror Imago (Base)
 dimwishlist:item=3234363830&perks=1631667848,4082225868 #(Grave Robber & Swashbuckler)
