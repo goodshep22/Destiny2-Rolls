@@ -829,8 +829,12 @@ dimwishlist:item=3234363830&perks=3938834702,31345821 #(To The Pain & Sword Logi
 
 // Afterlight (Base)
 dimwishlist:item=3228630258&perks=1631667848,1427256713 #(Grave Robber & Reservoir Burst)
-dimwishlist:item=3228630258&perks=1556840489,2048641572 #(Lead from Gold & Destabilizing Rounds)
-dimwishlist:item=3228630258&perks=691659142,2048641572 #(Pugilist & Destabilizing Rounds)
+dimwishlist:item=3228630258&perks=3978468247,1427256713 #(Discord & Reservoir Burst)
+dimwishlist:item=3228630258&perks=2010801679,1427256713 #(Ambitious Assassin & Reservoir Burst)
+dimwishlist:item=3228630258&perks=3978468247,2048641572 #(Discord & Destabilizing Rounds)
+dimwishlist:item=3228630258&perks=2010801679,2048641572 #(Ambitious Assassin & Destabilizing Rounds)
+dimwishlist:item=3228630258&perks=1631667848,2048641572 #((Grave Robber & Destabilizing Rounds)
+
 
 
 // Keraunios
