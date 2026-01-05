@@ -16,6 +16,7 @@ dimwishlist:item=2273643087&perks=1476923953,1476923956 #(Inmost Light & Synthoc
 dimwishlist:item=2273643087&perks=1476923952,1476923956 #(Assassin & Synthoceps)
 dimwishlist:item=2273643087&perks=183430255,183430251 #(Filaments & Vesper)
 dimwishlist:item=2273643087&perks=183430255,183430254 #(Filaments & Harmony)
+dimwishlist:item=2273643087&perks=183430255,1476923956 #(Filaments & Synthoceps)
 
 // Stoicism
 dimwishlist:item=266021826&perks=3573490511,1476923957 #(Eternal Warrior & Verity)
@@ -928,6 +929,7 @@ dimwishlist:item=1685533876&perks=3300816228,243981275 #(Auto Loading Holster & 
 dimwishlist:item=1685533876&perks=3300816228,4293542123 #(Auto Loading Holster & Incandescent)
 dimwishlist:item=1685533876&perks=3017780555,4293542123 #Heal Clip & Incandescent)
 dimwishlist:item=1685533876&perks=1119449540,4293542123 #(Loose Change & Incandescent)
+
 
 
 
