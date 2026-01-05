@@ -901,11 +901,16 @@ dimwishlist:item=4221591387&perks=2590710093,3708227201 #(Tireless Blade & Surro
 dimwishlist:item=2922964484&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
 dimwishlist:item=2922964484&perks=3523296417,113508675 #(Demolitionist & Reaper's Tithe)
 dimwishlist:item=2922964484&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
+dimwishlist:item=2922964484&perks=243981275,11612903 #(Attrition Orbs & Adrenaline Junkie)
+dimwishlist:item=2922964484&perks=243981275,113508675 #(Attrition Orbs & Reaper's Tithe)
+
 
 //Permafrost (Shiny)
 dimwishlist:item=2316331767&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
 dimwishlist:item=2316331767&perks=3523296417,113508675 #(Demolitionist & Reaper's Tithe)
 dimwishlist:item=2316331767&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
+dimwishlist:item=2316331767&perks=243981275,11612903 #(Attrition Orbs & Adrenaline Junkie)
+dimwishlist:item=2316331767&perks=243981275,113508675 #(Attrition Orbs & Reaper's Tithe)
 
 
 // Fimbulwinter Stitch
@@ -915,6 +920,7 @@ dimwishlist:item=3685829362&perks=1511100135,3966416502 #(Supercharged magazine 
 // Fimbulwinter Stitch (Shiny)
 dimwishlist:item=2645567209&perks=1511100135,3201496230 #(Supercharged magazine & Redirection)
 dimwishlist:item=2645567209&perks=1511100135,3966416502 #(Supercharged magazine & Jolting Feedback)
+
 
 
 
