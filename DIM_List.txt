@@ -35,6 +35,9 @@ dimwishlist:item=-69420&perks=3523296417,11612903 #(Demolitionist & Adrenaline J
 dimwishlist:item=-69420&perks=691659142,4082225868 #(Pugilist & Swashbuckler)
 dimwishlist:item=-69420&perks=3017780555,1015611457 #(Heal Clip & Kill Clip)
 dimwishlist:item=-69420&perks=3987942396,3078487919 #(Envious Arsenal & Bait and Switch)
+dimwishlist:item=-69420&perks=3523296417,691659142 #(Demolitionist & Pugilist)
+dimwishlist:item=-69420&perks=3523296417,2109543898 #(Demolitionist & Desperate Measures)
+dimwishlist:item=-69420&perks=691659142,2109543898 #(Pugilist & Desparate Measures)
 
 // The Mountaintop (Brave)
 dimwishlist:item=4043921923&perks=3809316345,3301904089
@@ -878,8 +881,15 @@ dimwishlist:item=4221591387&perks=1749209109,3708227201 #(Relentless Strike & Su
 dimwishlist:item=4221591387&perks=2590710093,3708227201 #(Tireless Blade & Surrounded)
 
 
+// Permafrost
+dimwishlist:item=2922964484&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
+dimwishlist:item=2922964484&perks=3523296417,113508675 #(Demolitionist & Reaper's Tithe)
+dimwishlist:item=2922964484&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
 
-
+//Permafrost (Shiny)
+dimwishlist:item=2316331767&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
+dimwishlist:item=2316331767&perks=3523296417,113508675 #(Demolitionist & Reaper's Tithe)
+dimwishlist:item=2316331767&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
 
 
 
