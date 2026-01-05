@@ -38,6 +38,9 @@ dimwishlist:item=-69420&perks=3987942396,3078487919 #(Envious Arsenal & Bait and
 dimwishlist:item=-69420&perks=3523296417,691659142 #(Demolitionist & Pugilist)
 dimwishlist:item=-69420&perks=3523296417,2109543898 #(Demolitionist & Desperate Measures)
 dimwishlist:item=-69420&perks=691659142,2109543898 #(Pugilist & Desparate Measures)
+dimwishlist:item=-69420&perks=1115162408,3218042543 #(Trickle Charge & Rolling Storm)
+dimwishlist:item=-69420&perks=1119449540,3966416502 #(Loose Change & Jolting Feedback)
+dimwishlist:item=-69420&perks=1119449540,2173046394 #(Loose Change & Voltshot)
 
 // The Mountaintop (Brave)
 dimwishlist:item=4043921923&perks=3809316345,3301904089
@@ -892,8 +895,13 @@ dimwishlist:item=2316331767&perks=3523296417,113508675 #(Demolitionist & Reaper'
 dimwishlist:item=2316331767&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
 
 
+// Fimbulwinter Stitch
+dimwishlist:item=3685829362&perks=1511100135,3201496230 #(Supercharged magazine & Redirection)
+dimwishlist:item=3685829362&perks=1511100135,3966416502 #(Supercharged magazine & Jolting Feedback)
 
-
+// Fimbulwinter Stitch (Shiny)
+dimwishlist:item=2645567209&perks=1511100135,3201496230 #(Supercharged magazine & Redirection)
+dimwishlist:item=2645567209&perks=1511100135,3966416502 #(Supercharged magazine & Jolting Feedback)
 
 
 
