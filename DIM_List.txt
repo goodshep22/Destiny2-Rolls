@@ -913,6 +913,7 @@ dimwishlist:item=2316331767&perks=3523296417,113508675 #(Demolitionist & Reaper'
 dimwishlist:item=2316331767&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
 dimwishlist:item=2316331767&perks=243981275,11612903 #(Attrition Orbs & Adrenaline Junkie)
 dimwishlist:item=2316331767&perks=243981275,113508675 #(Attrition Orbs & Reaper's Tithe)
+dimwishlist:item=2316331767&perks=243981275,113508675,11612903 #(Attrition Orbs & Reaper's Tithe)
 
 
 // Fimbulwinter Stitch
@@ -929,6 +930,7 @@ dimwishlist:item=1685533876&perks=3300816228,243981275 #(Auto Loading Holster & 
 dimwishlist:item=1685533876&perks=3300816228,4293542123 #(Auto Loading Holster & Incandescent)
 dimwishlist:item=1685533876&perks=3017780555,4293542123 #Heal Clip & Incandescent)
 dimwishlist:item=1685533876&perks=1119449540,4293542123 #(Loose Change & Incandescent)
+
 
 
 
