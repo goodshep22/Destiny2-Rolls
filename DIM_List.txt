@@ -44,16 +44,9 @@ dimwishlist:item=-69420&perks=1119449540,3966416502 #(Loose Change & Jolting Fee
 dimwishlist:item=-69420&perks=1119449540,2173046394 #(Loose Change & Voltshot)
 
 
-// The Mountaintop (Brave)
-dimwishlist:item=4043921923&perks=3809316345,3301904089
-
-// Midnight Coup (Brave)
-dimwishlist:item=2499720827&perks=4090651448,106909392,3700496672,3891536761
-
-
 //////////////////////////// Trash List Entries Start Here /////////////////////////////////////////////
 
-//  Qua Furor V
+// Qua Furor V
 dimwishlist:item=-751880654
 
 // Adverse Possession IX
@@ -87,7 +80,7 @@ dimwishlist:item=-664109750
 dimwishlist:item=-250721843
 
 
-///////////////////////////////////////////////// Wishlist Starts Here /////////////////////////////////////////////////////
+///////////////////////////////////////////////// Wishlist Starts Here ///////////////////////////////////////////////////
 
 
 // The Mountaintop (Brave)
@@ -983,3 +976,17 @@ dimwishlist:item=2659286158&perks=2048641572,776531651
 dimwishlist:item=2659286158&perks=4190679284,2109543898
 dimwishlist:item=2659286158&perks=4190679284,4104185692
 
+// Psi Aeterna IV
+dimwishlist:item=3556730800&perks=1115162408,3966416502
+dimwishlist:item=3556730800&perks=1115162408,3218042543
+dimwishlist:item=3556730800&perks=1583705720,4049631843
+dimwishlist:item=3556730800&perks=1017229899,11612903
+dimwishlist:item=3556730800&perks=563069569,4049631843
+
+
+// Psi Aeterna IV (Shiny)
+dimwishlist:item=135971347&perks=1115162408,3966416502
+dimwishlist:item=135971347&perks=1115162408,3218042543
+dimwishlist:item=135971347&perks=1583705720,4049631843
+dimwishlist:item=135971347&perks=1017229899,11612903
+dimwishlist:item=135971347&perks=563069569,4049631843
