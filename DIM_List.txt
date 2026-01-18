@@ -89,6 +89,14 @@ dimwishlist:item=-250721843
 
 ///////////////////////////////////////////////// Wishlist Starts Here /////////////////////////////////////////////////////
 
+
+// The Mountaintop (Brave)
+dimwishlist:item=4043921923&perks=3809316345,3301904089
+
+// Midnight Coup (Brave)
+dimwishlist:item=2499720827&perks=4090651448,106909392,3700496672,3891536761
+
+
 // Unsworn
 dimwishlist:item=1303313141&perks=3700496672,4198902903 #(Shoot to Loot & Detonator Beam)
 dimwishlist:item=1303313141&perks=3418782618,557221067 #(Rewind Rounds & Killing Tally)
@@ -905,7 +913,6 @@ dimwishlist:item=2922964484&perks=3523296417,113508675 #(Demolitionist & Reaper'
 dimwishlist:item=2922964484&perks=3643424744,113508675 #(Overflow & Reaper's Tithe)
 dimwishlist:item=2922964484&perks=243981275,11612903 #(Attrition Orbs & Adrenaline Junkie)
 dimwishlist:item=2922964484&perks=243981275,113508675 #(Attrition Orbs & Reaper's Tithe)
-dimwishlist:item=2922964484&perks=243981275,113508675,11612903
 
 
 //Permafrost (Shiny)
@@ -932,14 +939,47 @@ dimwishlist:item=1685533876&perks=3017780555,4293542123 #Heal Clip & Incandescen
 dimwishlist:item=1685533876&perks=1119449540,4293542123 #(Loose Change & Incandescent)
 
 
+// Eighty-Six
+dimwishlist:item=2344383760&perks=923806249,831391274 #(Slice & Hatchling)
+dimwishlist:item=2344383760&perks=1749209109,2396489472 #(Relentless Strike & Chain Reaction)
+dimwishlist:item=2344383760&perks=1749209109,3201496230 #(Relentless Strike & Redirection)
+dimwishlist:item=2344383760&perks=2590710093,2396489472 #(Tireless Blade & Chain Reaction)
+dimwishlist:item=2344383760&perks=923806249,1749209109,2590710093,831391274,2396489472,3201496230
 
 
+// Uncivil Discourse
+dimwishlist:item=3146657389&perks=3619207468,47981717 #(Keep Away & Opening Shot)
+dimwishlist:item=3146657389&perks=3932949589,3966416502 #(Cooling Baubles & Jolting Feedback)
+dimwishlist:item=3146657389&perks=1168162263,555281244 #(Outlaw & Precision Instrument)
+dimwishlist:item=3146657389&perks=307683764,47981717 #(Delicate Tuning & Opening Shot)
+
+// Uncivil Discourse (Shiny)
+dimwishlist:item=2462965802&perks=3619207468,47981717 #(Keep Away & Opening Shot)
+dimwishlist:item=2462965802&perks=3932949589,3966416502 #(Cooling Baubles & Jolting Feedback)
+dimwishlist:item=2462965802&perks=1168162263,555281244 #(Outlaw & Precision Instrument)
+dimwishlist:item=2462965802&perks=307683764,47981717 #(Delicate Tuning & Opening Shot)
 
 
+// Modified B-7 Pistol
+dimwishlist:item=3146657388&perks=3824105627,124408337 #(Firefly & Headstone)
+dimwishlist:item=3146657388&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
 
 
+//Modified B-7 Pistol (Shiny)
+dimwishlist:item=1872906663&perks=3824105627,124408337 #(Firefly & Headstone)
+dimwishlist:item=1872906663&perks=1955165503,2922950962 #(Rimestealer & Crystalline Corpsebloom)
 
 
+// Compact Defender
+dimwishlist:item=2819552809&perks=4190679284,4082225868
+dimwishlist:item=2819552809&perks=2048641572,776531651
+dimwishlist:item=2819552809&perks=4190679284,2109543898
+dimwishlist:item=2819552809&perks=4190679284,4104185692
 
 
+// Compact Defender (Shiny)
+dimwishlist:item=2659286158&perks=4190679284,4082225868
+dimwishlist:item=2659286158&perks=2048641572,776531651
+dimwishlist:item=2659286158&perks=4190679284,2109543898
+dimwishlist:item=2659286158&perks=4190679284,4104185692
 
